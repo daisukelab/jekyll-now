@@ -1,3 +1,8 @@
+---
+layout: post
+title: Summary of Machine Learning related info. for Creative
+---
+
 Creating summary of machine learning models that have creative traits
 
 ## Directly related
