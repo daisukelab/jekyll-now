@@ -1,4 +1,4 @@
-# Creating summary of machine learning models that have creative traits
+Creating summary of machine learning models that have creative traits
 
 ## Directly related
 - [Neural Color Transfer between Images (arXiv:1710.00756 [cs.CV])](https://arxiv.org/abs/1710.00756) Image transfer (Color)
